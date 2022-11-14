@@ -1,3 +1,4 @@
+//importing random packages
 import random
 
 def get_def_and_pop(word_list, word_dict):
